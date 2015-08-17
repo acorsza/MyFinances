@@ -2,5 +2,22 @@
     <string name="app_name">MyFinances</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="label_suas_transferencias">Transferências recentes</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_transaction">Nova transferência</string>
+    <string name="add_new_transaction">Adicionar nova transferência </string>
+    <string name="conta_origem">Conta de origem</string>
+    <string name="conta_destino">Conta de destino</string>
+    <string name="valor_transferencia">Valor da transferência</string>
+    <string name="tipo_transferencia">Tipo de transferência</string>
+    <string name="taxa">Taxa</string>
+    <string name="tipo_a">Tipo A</string>
+    <string name="tipo_b">Tipo B</string>
+    <string name="tipo_c">Tipo C</string>
+    <string name="tipo_d">Tipo D</string>
+    <string name="button_confirmar_transferencia">Confirmar transferência</string>
+    <string name="button_nova_transferencia">Nova transferência</string>
+    <string name="button_cancelar_transferencia">Cancelar transferência</string>
+    <string name="total">Total</string>
+    <string name="button_data">Data</string>
 </resources>
